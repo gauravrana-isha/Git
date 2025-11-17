@@ -6,3 +6,6 @@ First commit change for testing
 Second commit change for testing 
 
 This is something new that I am adding on change1
+
+
+Say hello!  to the new change, to the new beginnings;
